@@ -2,13 +2,6 @@
 
 This project is an AI-powered resume screening and ranking system that helps recruiters compare resumes against a job description. It uses **TF-IDF and cosine similarity** to score resumes based on relevance and provides improvement suggestions for candidates.
 
-## Features  
-âœ… Upload multiple resumes (PDF format)  
-âœ… Extract text from resumes using **PyPDF2**  
-âœ… Rank resumes based on job description similarity (TF-IDF + Cosine Similarity)  
-âœ… Provide improvement suggestions for candidates  
-âœ… Interactive Streamlit interface for easy use  
-
 ## Technologies Used  
 - **Python**  
 - **Streamlit** (for the web interface)  
@@ -24,11 +17,12 @@ This project is an AI-powered resume screening and ranking system that helps rec
    git clone https://github.com/Akankshamanyada/Ai-resume-project
    ```
 
-2. Install dependencies:  
+2. Install dependencies:
+   ```bash
    your-repo install -r requirements.txt
    ```
 
-3. Run the application:  
+4. Run the application:  
    ```bash
    streamlit run app.py
    ```
