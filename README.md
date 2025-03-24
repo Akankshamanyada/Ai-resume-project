@@ -22,12 +22,10 @@ This project is an AI-powered resume screening and ranking system that helps rec
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Akankshamanyada/Ai-resume-project
-   cd your-repo-name
    ```
 
 2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
+   your-repo install -r requirements.txt
    ```
 
 3. Run the application:  
